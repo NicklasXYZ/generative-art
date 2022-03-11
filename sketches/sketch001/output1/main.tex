@@ -1,0 +1,53 @@
+% --- Document Class ----------------------------------------------------------
+\documentclass{article}
+
+% --- Required Packages -------------------------------------------------------
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{subcaption}
+\usepackage[labelformat=empty]{caption}
+% \usepackage{showframe}
+
+% --- Fonts -------------------------------------------------------------------
+\usepackage{fontspec}
+\usepackage[babel=true]{microtype}
+% --- Fonts: Setting ----------------------------------------------------------
+\defaultfontfeatures{Ligatures = TeX, Mapping = tex-text}
+\setsansfont{JetBrainsMono} [ Path           = fonts/JetBrainsMono/ttf/JetBrainsMono-,
+                              Extension      = .ttf,
+                              Scale          = 1.00,
+                              UprightFont    = Light,
+                              ItalicFont     = LightItalic,
+                              BoldFont       = Regular,
+                              BoldItalicFont = Italic ]
+\renewcommand{\familydefault}{\sfdefault}
+
+% --- Layout Settings ---------------------------------------------------------
+\geometry{
+    a4paper,
+    % Margin
+    left=10.0mm,
+    right=10.0mm,
+    top=10.0mm,
+    bottom=20.0mm,
+}
+
+\pagestyle{fancy}
+% Set both header and footer to nothing:
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+
+% Add footer details:
+\lfoot{ Nicklas Sindlev Andersen \\ \today }
+\rfoot{ \#001 }
+
+% Remove page numbering
+\pagenumbering{gobble}
+
+% --- Document Start ----------------------------------------------------------
+\begin{document}
+
+    \input{figures}
+
+\end{document}

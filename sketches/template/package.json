@@ -1,0 +1,27 @@
+{
+  "name": "ts-two",
+  "version": "0.1.0",
+  "license": "MIT",
+  "prettier": {
+    "semi": false
+  },
+  "scripts": {
+    "bundle": "gulp bundle",
+    "start": "gulp watch",
+    "format": "prettier --write public src **/*.json"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.1",
+    "esbuild": "^0.12.6",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-esbuild": "^0.8.1",
+    "prettier": "^2.3.1",
+    "reload": "^3.1.1",
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.7",
+    "two.js": "^0.8.0"
+  }
+}

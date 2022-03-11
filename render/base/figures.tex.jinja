@@ -1,0 +1,17 @@
+    \begin{figure}
+        \centering
+
+    {% for i in range(rows) %}
+        {% for j in range(columns) %}
+            \begin{subfigure}{ {{ textWidthScalar }}\textwidth}
+                \centering
+                %\caption[]{}
+                \includegraphics[width=0.95\textwidth]{ {{ files[i][j] }} }
+            \end{subfigure}
+            {%- if j != columns - 1 -%}
+                %
+            {%- endif -%}
+        {% endfor %}
+    {% endfor %}
+
+\end{figure}

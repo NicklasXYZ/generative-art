@@ -1,0 +1,53 @@
+% --- Document Class ----------------------------------------------------------
+\documentclass{article}
+
+% --- Required Packages -------------------------------------------------------
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{subcaption}
+\usepackage[labelformat=empty]{caption}
+% \usepackage{showframe}
+
+% --- Fonts -------------------------------------------------------------------
+\usepackage{fontspec}
+\usepackage[babel=true]{microtype}
+% --- Fonts: Setting ----------------------------------------------------------
+\defaultfontfeatures{Ligatures = TeX, Mapping = tex-text}
+\setsansfont{JetBrainsMono} [ Path           = fonts/JetBrainsMono/ttf/JetBrainsMono-,
+                              Extension      = .ttf,
+                              Scale          = 1.00,
+                              UprightFont    = Light,
+                              ItalicFont     = LightItalic,
+                              BoldFont       = Regular,
+                              BoldItalicFont = Italic ]
+\renewcommand{\familydefault}{\sfdefault}
+
+% --- Layout Settings ---------------------------------------------------------
+\geometry{
+    a4paper,
+    % Margin
+    left={{ left }}mm,
+    right={{ right }}mm,
+    top={{ top }}mm,
+    bottom={{ bottom }}mm,
+}
+
+\pagestyle{fancy}
+% Set both header and footer to nothing:
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+
+% Add footer details:
+\lfoot{ {{ lfooter }} }
+\rfoot{ {{ rfooter }} }
+
+% Remove page numbering
+\pagenumbering{gobble}
+
+% --- Document Start ----------------------------------------------------------
+\begin{document}
+
+    \input{figures}
+
+\end{document}

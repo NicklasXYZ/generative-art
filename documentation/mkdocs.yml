@@ -1,0 +1,13 @@
+site_name: Generative Art Sketches
+
+theme:
+  name: material
+  language: en
+  icon:
+    logo: material/brush
+
+
+repo_url: https://github.com/NicklasXYZ/generative-art-sketches
+
+markdown_extensions:
+  - tables
