@@ -7,7 +7,7 @@ theme:
     logo: material/brush
 
 
-repo_url: https://github.com/NicklasXYZ/generative-art-sketches
+repo_url: https://github.com/NicklasXYZ/generative-art
 
 markdown_extensions:
   - tables
