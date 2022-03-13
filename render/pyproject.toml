@@ -2,7 +2,8 @@
 name = "render"
 version = "0.1.0"
 description = ""
-authors = ["NicklasXYZ <nsa200293@live.dk>"]
+license = "MIT"
+authors = ["NicklasXYZ"]
 
 keywords = []
 

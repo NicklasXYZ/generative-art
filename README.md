@@ -42,12 +42,25 @@ xelatex main.tex
 
 ## Sketch Template
 
-Some boilerplace code to get started can be found in the directory: `sketches/template/`.
+Some boilerplace code to get started with a sketch can be found in the directory: `sketches/template/`.
 
 ## PDF to PNG
 
-For inclusion in the documentation pdf files can be converted to pngs using inkscape and the following command:
+For inclusion in the documentation pdf files can be converted to pngs using the ´convert´ commandline utility using the following command:
 
 ```
 convert -verbose -density 300 output1.pdf -sharpen 0x0.1 -colorspace RGB output1.png
 ```
+
+## Installation of Python Libraries
+
+To install the necesarry Python library dependencies for generating the documentation hosted on [Generative Art Sketches](https://nicklasxyz.github.io/generative-art/), execute the following steps:
+
+```bash
+# Create a new conda environment if necesary:
+conda create -n genart python=3.9
+
+# Install mkdocs together with the material theme
+pip install mkdocs-material
+```
+
