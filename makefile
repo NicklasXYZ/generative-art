@@ -1,7 +1,7 @@
 DOCS = "documentation"
 
 build-docs:
-	rm -rf /docs && \
+	rm -rf ./docs && \
 	cd $(DOCS) && \
 	rm -rf site && \
 	mkdocs build && \
