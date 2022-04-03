@@ -1,14 +1,16 @@
 # Sketch002
 
-Sketch002v1                                          |  Sketch002v2                                        |  Sketch002v2                                       |
+Sketch002v1                                          |  Sketch002v2                                        |  Sketch002v3                                       |
 :---------------------------------------------------:|:---------------------------------------------------:|:--------------------------------------------------:|
 [![](sketch002/output1.png)](sketch002/output1.png)  | [![](sketch002/output2.png)](sketch002/output2.png) | [![](sketch002/output3.png)](sketch002/output3.png)|
 
 #### Short Description
 
-Roulette curves called Epitrochoid and Hypotrochoid curves.
+Roulette curves (specifically Epitrochoid and Hypotrochoid curves) whose x and y coordinates have been scaled appropriately to fit the format.
 
 #### Sketch Details
+
+The different versions of the sketch were generated with the following general attributes: 
 
 <center>
 
@@ -22,4 +24,21 @@ Roulette curves called Epitrochoid and Hypotrochoid curves.
 
 ## Penplotter Output
 
-TODO
+Sketch002v1                                          |  Sketch002v2                                        |  Sketch002v3                                       |
+:---------------------------------------------------:|:---------------------------------------------------:|:--------------------------------------------------:|
+[![](sketch002/penplotter_output1.jpg)](sketch002/penplotter_output1.jpg)  | [![](sketch002/penplotter_output2.jpg)](sketch002/penplotter_output2.jpg) | [![](sketch002/penplotter_output3.jpg)](sketch002/penplotter_output3.jpg)|
+
+
+#### Drawing Utensils
+
+[![](sketch002/drawing_utensils.jpg)](sketch002/drawing_utensils.jpg) 
+
+
+<center>
+
+ Type        | Value                                |
+:-----------:|:------------------------------------:|
+ Paper       | Daler & Rowney, A4, bristol board    |
+ Pen         | Staedtler, 0.1mm, fineliner          |
+
+</center>

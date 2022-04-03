@@ -10,6 +10,8 @@ Evenly spaced horizontal and vertical lines. Each horizontal and vertical line c
 
 #### Sketch Details
 
+The different versions of the sketch were generated with the following general attributes: 
+
 <center>
 
  Attribute   | Value                                |
