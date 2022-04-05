@@ -28,10 +28,9 @@ Sketch002v1                                          |  Sketch002v2             
 :---------------------------------------------------:|:---------------------------------------------------:|:--------------------------------------------------:|
 [![](sketch002/penplotter_output1.jpg)](sketch002/penplotter_output1.jpg)  | [![](sketch002/penplotter_output2.jpg)](sketch002/penplotter_output2.jpg) | [![](sketch002/penplotter_output3.jpg)](sketch002/penplotter_output3.jpg)|
 
-
 #### Drawing Utensils
 
-[![](sketch002/drawing_utensils.jpg)](sketch002/drawing_utensils.jpg) 
+[![](sketch002/drawing_utensils_1.jpg)](sketch002/drawing_utensils_1.jpg) 
 
 
 <center>
