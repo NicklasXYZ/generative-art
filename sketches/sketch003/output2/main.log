@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (preloaded format=xelatex 2022.4.18)  18 APR 2022 22:07
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (preloaded format=xelatex 2022.4.18)  18 APR 2022 23:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -208,8 +208,7 @@ c.ttf]/OT:script=latn;language=dflt;mapping=tex-text;"
 
 LaTeX Font Info:    Font shape `TU/JetBrainsMono(0)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 49.
-
-No file main.aux.
+ (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
@@ -223,6 +222,7 @@ LaTeX Font Info:    ... okay on input line 49.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
 9.
+
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -353,8 +353,8 @@ File: input2/svg_2.pdf Graphic file (type pdf)
 <use input2/svg_2.pdf>
 ) [1] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 7232 strings out of 476180
- 172751 string characters out of 5815297
+ 7234 strings out of 476180
+ 172769 string characters out of 5815297
  546736 words of memory out of 5000000
  27963 multiletter control sequences out of 15000+600000
  469331 words of font info for 37 fonts, out of 8000000 for 9000
