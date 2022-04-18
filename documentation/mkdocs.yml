@@ -2,11 +2,17 @@ site_name: Generative Art Sketches
 
 repo_url: https://github.com/NicklasXYZ/generative-art
 
+edit_uri: tree/main/documentation/docs
+
 theme:
   name: material
   language: en
   icon:
     logo: material/brush
+  palette:
+    primary: cyan
+    scheme: default
+    accent: cyan
 
 markdown_extensions:
   - tables

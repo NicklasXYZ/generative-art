@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "esModuleInterop": true,
+    "lib": ["ESNext", "dom"],
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "ESNext"
+  }
+}
