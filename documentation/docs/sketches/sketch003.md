@@ -22,6 +22,24 @@ The different versions of the sketch were generated with the following general a
 </center>
 
 
+
 ## Penplotter Output
 
-TODO
+Sketch003v1                                          |  Sketch003v2                                        |  Sketch003v3                                       |
+:---------------------------------------------------:|:---------------------------------------------------:|:--------------------------------------------------:|
+[![](sketch003/penplotter_output1.jpg)](sketch003/penplotter_output1.jpg)  | [![](sketch003/penplotter_output2.jpg)](sketch003/penplotter_output2.jpg) | [![](sketch003/penplotter_output3.jpg)](sketch003/penplotter_output3.jpg)|
+
+
+#### Drawing Utensils
+
+[![](sketch003/drawing_utensils_1.jpg)](sketch003/drawing_utensils_1.jpg) 
+
+
+<center>
+
+ Type        | Value                                |
+:-----------:|:------------------------------------:|
+ Paper       | Daler & Rowney, A4, bristol board    |
+ Pen         | Staedtler, 0.05mm, fineliner          |
+
+</center>
