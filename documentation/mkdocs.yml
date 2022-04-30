@@ -16,3 +16,12 @@ theme:
 
 markdown_extensions:
   - tables
+  - admonition
+
+extra:
+  social:
+    - icon: fontawesome/solid/link
+      link: https://nicklas.xyz
+      name: NicklasXYZ's Website
+
+copyright: Copyright &copy; 2022 NicklasXYZ

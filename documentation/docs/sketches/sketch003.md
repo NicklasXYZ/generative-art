@@ -14,10 +14,10 @@ The different versions of the sketch were generated with the following general a
 
 <center>
 
- Attribute   | Value                                |
-:-----------:|:------------------------------------:|
- Format      | A4                                   |
- Line width  | 0.02mm                               |
+Sketch Version | Attribute   | Value                                |
+:-------------:|:-----------:|:------------------------------------:|
+Sketch003v1-v3 | Format      | A4                                   |
+-              | Line width  | 0.2mm                                |
 
 </center>
 
@@ -37,9 +37,9 @@ Sketch003v1                                          |  Sketch003v2             
 
 <center>
 
- Type        | Value                                |
-:-----------:|:------------------------------------:|
- Paper       | Daler & Rowney, A4, bristol board    |
- Pen         | Staedtler, 0.05mm, fineliner          |
+Sketch Version | Type        | Value                                |
+:-------------:|:-----------:|:------------------------------------:|
+Sketch003v1-v3 | Paper       | Daler & Rowney, A4, bristol board    |
+-               | Pen         | Staedtler, 0.05mm, fineliner        |
 
 </center>
